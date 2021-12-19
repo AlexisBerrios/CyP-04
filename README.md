@@ -10,4 +10,6 @@ tanto, se calculara el valor de x
 
 e considerando 8 términos en la sumatoria.
 
+![image](https://user-images.githubusercontent.com/90359568/146662924-94278729-d989-46f0-a92f-0661f79a95ab.png)
+![image](https://user-images.githubusercontent.com/90359568/146662918-a5d68a4d-75a4-43e8-b505-ca8cacbb4029.png)
 
